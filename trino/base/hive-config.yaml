@@ -150,6 +150,10 @@ data:
         <value>XXX_S3ENDPOINT_URL_PREFIX_XXXXXX_S3LOCATION_XXX/</value>
       </property>
       <property>
+        <name>fs.s3a.path.style.access</name>
+        <value>true</value>
+      </property>
+      <property>
         <name>hive.metastore.db.type</name>
         <value>POSTGRES</value>
       </property>
